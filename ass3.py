@@ -1,5 +1,6 @@
 # Write a program to check whether a person is eligible to vote or not?
-'''user_age = 18;
+# '''
+user_age = 18;
 
 if user_age >= 18:
     print("You are eligible to vote")
@@ -153,7 +154,7 @@ elif num3 >= num1 and num3 >= num2 :
     print(f'{num3} is greater than {num1} and {num2}')
     
     
-'''  
+# '''  
     
 # Write a program that accepts 3 input from user and check the second largest.
 # for example:
